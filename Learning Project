@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BookMark Manager - Sachin's Web</title>
+</head>
+<body>
+    <h1>My Bookmarks</h1>
+    <h2>Primary Bookmarks</h2>
+    <p><a target="_blank" href="https://www.google.com">Google.com</a></p>
+    <p><a target="_blank" href="https://www.Facebook.com">Facebook.com</a></p>
+    <p><a target="_blank" href="https://www.quora.com">Quora.com</a></p>
+    <p><a target="_blank" href="https://www.youtube.com">Youtube.com</a></p>
+    <p><a target="_blank" href="https://www.lightstream.com">Lightstream.com</a></p>
+
+    <h2>Secondary Bookmarks</h2>
+    <p><a target="_blank" href="https://www.codewithharry.com">CodeWithHarry.com</a></p>
+    <p><a target="_blank" href="https://www.instagram.com">Instagram.com</a></p>
+    <p>C + O<sub>2</sub> = CO<sub>2</sub></p>
+    <p>2<sup>2</sup>=4</p>
+</body>
+</html>
