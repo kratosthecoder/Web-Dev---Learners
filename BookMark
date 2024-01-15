@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My BookMarks - Sachin's Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <script src="script.js"></script>
+    <h1>My BookMarks - Sachin's Website using h1</h1>
+    <h2>My BookMarks - Sachin's Website using h2</h2>
+    <h3>My BookMarks - Sachin's Website using h3</h3>
+    <h4>My BookMarks - Sachin's Website using h4</h4>
+    <h5>My BookMarks - Sachin's Website using h5</h5>
+    <h6>My BookMarks - Sachin's Website using h6</h6>
+    <p style="background-color: thistle;">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem molestiae illo, perspiciatis, totam error rem quisquam est sint fuga omnis quaerat esse earum.</p>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consectetur fuga, architecto illo molestiae maiores eum quaerat sapiente! Similique id, a iure eos at exercitationem nostrum corporis ratione mollitia sapiente labore, facilis perferendis. Facere recusandae eos modi necessitatibus delectus nisi et porro, quod tempore voluptatem nam officia asperiores, facilis nostrum mollitia velit quisquam, doloremque libero ullam! Vitae, assumenda rem. Odio accusamus magni animi dolorum ratione doloribus ut architecto illo provident fugit? Voluptas doloremque quam facilis, quis quos cumque, doloribus rem consequuntur nostrum, sed delectus repellat minus dignissimos unde libero accusantium nihil! Voluptates ab suscipit aut ipsa, praesentium mollitia assumenda perspiciatis voluptatum?
+    </p>
+</body>
+</html>
